@@ -1,0 +1,20 @@
+
+Person Details:
+First Name - Satish
+Last Name - CV
+Phone Number - 9475862748
+Email - satish@gmail.com
+Address -
+City - Kodagu
+State - karnataka
+Zip Code - 540096
+
+Person Details:
+First Name - sukanya
+Last Name - Satish
+Phone Number - 9374856693
+Email - sukanya@gmail.com
+Address -
+City - bangalore
+State - karnataka
+Zip Code - 560045

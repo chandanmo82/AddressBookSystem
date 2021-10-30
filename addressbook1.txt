@@ -1,0 +1,20 @@
+
+Person Details:
+First Name - Ashika
+Last Name - Satish
+Phone Number - 9481448637
+Email - ashika@gmail.com
+Address -
+City - bangalore
+State - karnataka
+Zip Code - 560043
+
+Person Details:
+First Name - sagarika
+Last Name - satish
+Phone Number - 9375856374
+Email - sagarika@gmail.com
+Address -
+City - kodagu
+State - karnataka
+Zip Code - 560078
